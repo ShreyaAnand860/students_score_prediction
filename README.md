@@ -31,7 +31,7 @@ To set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ShreyaAnand1810/Students_Score_Prediction.git
+   git clone https://github.com/ShreyaAnand860/students_score_prediction.git
    cd Students_Score_Prediction
    venv\Scripts\activate
 
